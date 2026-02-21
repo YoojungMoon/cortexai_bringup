@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # enyoai_bringup (C++-centric)
 
 This package keeps the *bringup pipeline* launch in Python (ROS2 convention),
@@ -26,4 +25,3 @@ ros2 launch enyoai_bringup enyoai_stack.launch.py
 =======
 # cortexai_bringup
 Enyo AI Drone integrated launch for realsense, visual SLAM, nvBlox
->>>>>>> origin/main
