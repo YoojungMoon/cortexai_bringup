@@ -1,0 +1,9 @@
+nvblox_node:
+  ros__parameters:
+    voxel_size: 0.10
+    use_color: false
+    use_lidar: false
+
+    map_clearing_radius_m: 4.0
+    clear_map_outside_radius_rate_hz: 1.0
+    decay_tsdf_rate_hz: 5.0
